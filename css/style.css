@@ -1,0 +1,34 @@
+/*Top header beginning*/
+
+.top-header {
+    background-color: rgb(224, 216, 216);
+    height: 35px;
+}
+
+.mid-header img{
+    height: 100px; 
+    width: 100px;
+    margin: 15px 15px 15px 30px;
+    float: right;
+}
+
+.mid-header p{
+    margin: 40px 0px 40px 0px;
+    float: right;
+}
+
+.navbar {
+    background-color: rgb(185, 169, 17) !important;
+    height: 35px;  
+}
+
+.navbar-nav {
+    width: 100%;
+}
+
+.navbar ul{
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 0;
+}
+
