@@ -8,21 +8,9 @@
     <link rel="stylesheet" href="css/style.css" />
 </head>
 <body>
+
     <div class="top-header">
-        <ul class="nav justify-content-end">
-            <li class="nav-item">
-                <a class="nav-link active" href="#">Active</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#">Link</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#">Link</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
-            </li>
-        </ul>
+        <h6>Abainemu Enterprises Limited</h6>
     </div>
 
     <div class="container">
@@ -79,10 +67,6 @@
 
 
     </div>
-
-
-
-    <div>Hello World</div>
 
 </body>
 </html>
