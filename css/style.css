@@ -2,11 +2,8 @@
 
 .top-header {
     background-color: rgb(224, 216, 216);
-    height: 50px;
-}
-
-.top-header h6 {
-    justify-content: center;
+    height: 30px;
+    text-align: center;
 }
 
 .mid-header img{
