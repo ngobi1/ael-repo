@@ -6,6 +6,7 @@
     text-align: center;
 }
 
+/*Begin mid header*/
 .mid-header img{
     height: 100px; 
     width: 100px;
@@ -18,6 +19,7 @@
     float: right;
 }
 
+/*Begin navbar*/
 .navbar {
     background-color: rgb(185, 169, 17) !important;
     height: 35px;  
@@ -33,3 +35,22 @@
     padding: 0;
 }
 
+/*Begin footer*/
+#wrapper {
+    background-color: rgba(143, 132, 75, 0.9);
+    height: 400px;
+}
+.footer{
+    padding-top: 30px;
+    color: #ffffff;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+}
+
+.copyright {
+    color: #ffffff;
+    text-align: center;
+    font-weight: 100;
+    font-style: oblique;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
