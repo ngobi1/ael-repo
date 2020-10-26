@@ -6,11 +6,12 @@
     <title>AEL Home</title>
     <link rel="stylesheet" href="css/bootstrap.min.css" />
     <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="fontawesome/css/all.min.css" />
 </head>
 <body>
 
     <div class="top-header">
-        <h6>Abainemu Enterprises Limited</h6>
+        <i class="far fa-copyright" aria-hidden="true">Abainemu Enterprises Limited</i> 
     </div>
 
     <div class="container">
@@ -67,6 +68,7 @@
 
 
     </div>
+
 
 </body>
 </html>
